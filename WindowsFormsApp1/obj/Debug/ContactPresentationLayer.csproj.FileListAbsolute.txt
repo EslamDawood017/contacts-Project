@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\BusinessLayer.dll
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\ContactPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\ContactPresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\ContactPresentationLayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\ContactPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\ContactPresentationLayer.csproj.CopyComplete
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddandEditeContacts.resources
+C:\Users\user\Desktop\17 - Database - SQL ( Projects & Practice)\Git Contact Project\contacts-Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmShowAllContact.resources

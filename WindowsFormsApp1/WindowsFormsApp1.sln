@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{EFD2FA5F-0C07-4B60-9C2E-80785D03BB56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactPresentationLayer", "ContactPresentationLayer.csproj", "{EFD2FA5F-0C07-4B60-9C2E-80785D03BB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "..\..\..\Contact Project\BusinessLayer\BusinessLayer.csproj", "{A1891841-C4AA-4BBC-B8C4-337526014ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\..\..\Contact Project\DataAccessLayer\DataAccessLayer.csproj", "{27A99F07-B7C6-444D-B5EF-148FE97F4EDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EFD2FA5F-0C07-4B60-9C2E-80785D03BB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFD2FA5F-0C07-4B60-9C2E-80785D03BB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFD2FA5F-0C07-4B60-9C2E-80785D03BB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1891841-C4AA-4BBC-B8C4-337526014ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1891841-C4AA-4BBC-B8C4-337526014ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1891841-C4AA-4BBC-B8C4-337526014ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1891841-C4AA-4BBC-B8C4-337526014ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A99F07-B7C6-444D-B5EF-148FE97F4EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A99F07-B7C6-444D-B5EF-148FE97F4EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A99F07-B7C6-444D-B5EF-148FE97F4EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A99F07-B7C6-444D-B5EF-148FE97F4EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

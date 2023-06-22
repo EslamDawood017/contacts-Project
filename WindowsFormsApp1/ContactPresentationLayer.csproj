@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BusinessLayer">
+      <HintPath>..\..\..\Contact Project\BusinessLayer\bin\Debug\BusinessLayer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +49,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmAddandEditeContacts.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmAddandEditeContacts.Designer.cs">
+      <DependentUpon>frmAddandEditeContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowAllContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowAllContact.Designer.cs">
+      <DependentUpon>frmShowAllContact.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAddandEditeContacts.resx">
+      <DependentUpon>frmAddandEditeContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowAllContact.resx">
+      <DependentUpon>frmShowAllContact.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
